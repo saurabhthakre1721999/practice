@@ -17,7 +17,7 @@ const Home = () => {
         <li>home </li>
         <li>about</li>
         <li>link</li>
-        <li>menu</li>
+        <li>icons</li>
       </ul>
       <Footer />
       <button onClick={para}>like </button>

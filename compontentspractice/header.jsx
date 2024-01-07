@@ -1,7 +1,7 @@
 const Header = () => {
   return (
     <div>
-      <h1> flipkart</h1>
+      <h1> flipkart home</h1>
     </div>
   );
 };
