@@ -16,8 +16,8 @@ const Home = () => {
       <ul>
         <li>home </li>
         <li>about</li>
-        <li>para</li>
-        <li>copy</li>
+        <li>links</li>
+        <li>menu</li>
       </ul>
       <Footer />
       <button onClick={para}>like </button>
