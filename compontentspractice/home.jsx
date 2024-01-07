@@ -16,7 +16,7 @@ const Home = () => {
       <ul>
         <li>home </li>
         <li>about</li>
-        <li>links</li>
+        <li>link</li>
         <li>menu</li>
       </ul>
       <Footer />
